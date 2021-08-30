@@ -1,0 +1,4 @@
+step 1> Download the source code .
+step 2> Search google for "age_net.caffemodel","gender_net.caffemodel" download these files and add in the same folder where other files are
+step 3> pip install -r requiments.txt
+step 4> python Age_And_Gender_Detection.py
